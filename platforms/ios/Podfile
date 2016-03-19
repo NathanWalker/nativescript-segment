@@ -1,0 +1,4 @@
+use_frameworks!
+
+pod 'Analytics', '~> 3.0'
+pod 'Segment-GoogleAnalytics', :git => 'https://github.com/rokgregoric/analytics-ios-integration-google-analytics.git'
